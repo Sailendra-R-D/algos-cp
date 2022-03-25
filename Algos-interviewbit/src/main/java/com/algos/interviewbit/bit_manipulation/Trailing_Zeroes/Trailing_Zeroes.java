@@ -1,4 +1,4 @@
-package com.algos.interviewbit.bit.manipulation.Trailing_Zeroes;
+package com.algos.interviewbit.bit_manipulation.Trailing_Zeroes;
 
 public class Trailing_Zeroes {
     public int solve(int a) {

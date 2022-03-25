@@ -1,4 +1,4 @@
-package com.algos.interviewbit.bit.manipulation.Min_XOR_value;
+package com.algos.interviewbit.bit_manipulation.Min_XOR_value;
 
 import java.util.ArrayList;
 import java.util.Collections;

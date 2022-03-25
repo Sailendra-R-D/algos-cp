@@ -1,4 +1,4 @@
-package com.algos.interviewbit.bit.manipulation.Number_of_1_Bits;
+package com.algos.interviewbit.bit_manipulation.Number_of_1_Bits;
 
 public class Number_of_1_Bits {
     public int numSetBits(long a) {

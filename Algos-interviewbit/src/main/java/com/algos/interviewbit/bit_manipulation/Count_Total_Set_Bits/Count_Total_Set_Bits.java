@@ -1,4 +1,4 @@
-package com.algos.interviewbit.bit.manipulation.Count_Total_Set_Bits;
+package com.algos.interviewbit.bit_manipulation.Count_Total_Set_Bits;
 
 public class Count_Total_Set_Bits {
     public int solve(int A) {

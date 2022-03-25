@@ -1,6 +1,6 @@
 package com.algos.interviewbit;
 
-import com.algos.interviewbit.bit.manipulation.Count_Total_Set_Bits.Count_Total_Set_Bits;
+import com.algos.interviewbit.bit_manipulation.Count_Total_Set_Bits.Count_Total_Set_Bits;
 
 public class AlgoRunner {
     public static void main(String[] args) {
