@@ -1,13 +1,6 @@
 package com.algos.interviewbit;
 
-import com.algos.interviewbit.bit_manipulation.Count_Total_Set_Bits.Count_Total_Set_Bits;
-import com.algos.interviewbit.bit_manipulation.Min_XOR_value.Min_XOR_value;
-import com.algos.interviewbit.bit_manipulation.Number_of_1_Bits.Number_of_1_Bits;
-import com.algos.interviewbit.bit_manipulation.Reverse_Bits.Reverse_Bits;
-import com.algos.interviewbit.bit_manipulation.Trailing_Zeroes.Trailing_Zeroes;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+import com.algos.interviewbit.bit_manipulation.Divide_Integers.Divide_Integers;
 
 public class AlgoRunner {
     public static void main(String[] args) {
@@ -22,8 +15,12 @@ public class AlgoRunner {
 //
 //        Count_Total_Set_Bits count_total_set_bits = new Count_Total_Set_Bits();
 //        System.out.println("total set bits count :: " + count_total_set_bits.solve(3));
+//
+//        Reverse_Bits reverse_bits = new Reverse_Bits();
+//        System.out.println("reversed bits value :: " + reverse_bits.reverse(3));
 
-        Reverse_Bits reverse_bits = new Reverse_Bits();
-        System.out.println("reversed bits value :: " + reverse_bits.reverse(3));
+        Divide_Integers divide_integers = new Divide_Integers();
+        System.out.println("quotient :: " + divide_integers.divide(-2147483648, -10000000));
+
     }
 }
